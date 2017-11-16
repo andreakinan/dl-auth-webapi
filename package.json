@@ -1,7 +1,7 @@
 {
   "name": "dl-auth-webapi",
   "version": "1.0.0",
-  "description": "multiyasa-abadi-sentosa authentication REST api",
+  "description": "Multiyasa-Abadi-Sentosa authentication REST api",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,17 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/multiyasa-abadi-sentosa/dl-auth-webapi.git"
+    "url": "git+https://github.com/Multiyasa-Abadi-Sentosa/dl-auth-webapi.git"
   },
   "author": "Moonlay Tech",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/multiyasa-abadi-sentosa/dl-auth-webapi/issues"
+    "url": "https://github.com/Multiyasa-Abadi-Sentosa/dl-auth-webapi/issues"
   },
-  "homepage": "https://github.com/multiyasa-abadi-sentosa/dl-auth-webapi#readme",
+  "homepage": "https://github.com/Multiyasa-Abadi-Sentosa/dl-auth-webapi#readme",
   "dependencies": {
-    "dl-models": "git+https://github.com/multiyasa-abadi-sentosa/dl-models.git",
-    "dl-module": "git+https://github.com/multiyasa-abadi-sentosa/dl-module.git",
+    "dl-models": "git+https://github.com/Multiyasa-Abadi-Sentosa/dl-models.git",
+    "dl-module": "git+https://github.com/Multiyasa-Abadi-Sentosa/dl-module.git",
     "jsonwebtoken": "^7.1.9",
     "mongo-factory": "^1.0.0",
     "mongodb": "^2.2.10",
